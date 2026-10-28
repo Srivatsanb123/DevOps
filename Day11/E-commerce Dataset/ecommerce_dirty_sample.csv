@@ -1,0 +1,105 @@
+order_id,order_date,customer_id,product_name,category,quantity,unit_price,total_amount,payment_method,order_status,city
+ORD1001,2026-01-03,CUST001,Laptop,Electronics,1,899.99,899.99,Credit Card,Shipped,Chennai
+ORD1002,2026-01-04,CUST002,wireless mouse,Electronics,2,19.99,39.98,UPI,Delivered,Bengaluru
+ORD1003,2026-01-05,CUST003,Office Chair,Furniture,1,149.50,149.50,Cash on Delivery,Delivered,Mumbai
+ORD1004,2026-01-06,CUST004,Smartphone,Electronics,1,699.00,699.00,,Processing,Hyderabad
+ORD1005,2026-01-07,CUST005,Coffee Maker,Home Appliances,2,45.00,90.00,UPI,Delivered,Pune
+ORD1006,08/01/2026,CUST006,Running Shoes,Fashion,1,79.99,79.99,Debit Card,Shipped,Delhi
+ORD1007,2026-01-09,CUST007,Backpack,Fashion,3,29.99,89.97,UPI,Delivered,
+ORD1008,2026-01-10,CUST008,Bluetooth Speaker,Electronics,1,59.99,59.99,PayPal,Cancelled,Chennai
+ORD1009,not-a-date,CUST009,Desk Lamp,Home Decor,2,24.50,49.00,Debit Card,Delivered,Jaipur
+ORD1010,2026-01-12,CUST010,Water Bottle,Home & Kitchen,4,12.00,48.00,UPI,Delivered,Ahmedabad
+ORD1011,2026-01-13,,Monitor,Electronics,1,229.99,229.99,Credit Card,Shipped,Chennai
+ORD1012,2026-01-14,CUST012,Notebook Set,Stationery,5,,24.95,Cash on Delivery,Delivered,Lucknow
+ORD1013,2026-01-15,CUST013,  gaming keyboard ,Electronics,1,89.99,89.99,UPI,Processing,Bengaluru
+ORD1014,2026-01-16,CUST014,Yoga Mat,Sports,2,22.50,45.00,Debit Card,Delivered,Coimbatore
+ORD1015,2026-01-17,CUST015,Air Fryer,home appliances,1,129.99,129.99,Credit Card,Shipped,Chennai
+ORD1016,2026-01-18,CUST016,  laptop  ,Electronics,1,899.99,899.99, credit card ,Shipped,Chennai
+ORD1017,2026-01-19,CUST017,Wireless Mouse,Electronics,two,19.99,39.98,UPI,Delivered,Bengaluru
+ORD1018,2026-01-20,CUST018,Office Chair,Furniture,1,149.50,149.50,Cash on Delivery,Delivered,Mumbai
+ORD1019,2026-01-21,CUST019,Smartphone,Electronics,1,N/A,699.00,UPI,Processing,Hyderabad
+ORD1020,2026-01-22,CUST020,Coffee Maker,Home Appliances,2,45.00,90.00,UPI,Delivered,Pune
+ORD1021,2026-01-23,CUST021,Running Shoes,Fashion,1,79.99,,Debit Card,Shipped,Delhi
+ORD1022,2026-01-24,CUST022,Backpack,Fashion,3,29.99,89.97,UPI,Delivered,Kolkata
+ORD1023,2026-01-25,CUST023,Bluetooth Speaker,Electronics,1,59.99,59.99,PayPal,cancelled ,Chennai
+ORD1024,2026-01-26,CUST024,Desk Lamp,Home Decor,2,24.50,49.00,Debit Card,Delivered,Jaipur
+ORD1025,2026-01-27,CUST025,Water Bottle,Home & Kitchen,4,12.00,48.00,UPI,Delivered, chennai 
+ORD1026,2026-01-28,CUST026,Monitor,Electronics,1,229.99,229.99,Credit Card,,Chennai
+ORD1027,2026-01-29,CUST027,Notebook Set,Stationery,5,4.99,24.95,Cash on Delivery,Delivered,Lucknow
+ORD1028,2026-01-30,CUST028,Gaming Keyboard,Electronics,3.5,89.99,89.99,UPI,Processing,Bengaluru
+ORD1029,2026-01-31,CUST029,Yoga Mat,Sports,2,22.50,45.00,Debit Card,Delivered,Coimbatore
+ORD1030,2026-02-01,CUST030,Air Fryer,Home Appliances,1,129.99,129.99,Credit Card,Shipped,Chennai
+ORD1031,2026-02-02,,Laptop,Electronics,1,899.99,899.99,Credit Card,Shipped,Chennai
+ORD1032,2026-02-03,CUST032,Wireless Mouse,Electronics,3,19.99,59.97,UPI,Delivered,Bengaluru
+ORD1033,2026-02-04,CUST033,,Furniture,1,149.50,149.50,Cash on Delivery,Delivered,Mumbai
+ORD1034,2026-02-05,CUST034,Smartphone,Electronics,1,699.00,699.00,Credit Card,Processing,Hyderabad
+ORD1035,2026-02-06,CUST035,Coffee Maker,Home Appliances,2,45.00,90.00,UPI,Delivered,Pune
+ORD1036,2026-02-07,CUST036,Running Shoes,Fashion,1,999999.99,79.99,Debit Card,Shipped,Delhi
+ORD1037,2026-02-08,CUST037,Backpack,Fashion,3,29.99,89.97,UPI,Delivered,Kolkata
+ORD1038,2026-02-09,CUST038,Bluetooth Speaker,Electronics,1,59.99,59.99,PayPal,Cancelled,Chennai
+ORD1039,2026-02-10,CUST039,Desk Lamp,Home Decor,2,24.50,49.00,Debit Card,Delivered,Jaipur
+ORD1040,2026-02-11,CUST040,Water Bottle,Home & Kitchen,-2,12.00,48.00,UPI,Delivered,Ahmedabad
+ORD1041,2026-02-12,CUST041,Monitor,,1,229.99,229.99,Credit Card,Shipped,Chennai
+ORD1042,2026-02-13,CUST042,Notebook Set,Stationery,5,4.99,24.95,Cash on Delivery,Delivered,Lucknow
+ORD1043,2026-02-14,CUST043,Gaming Keyboard,Electronics,1,89.99,0,UPI,Processing,Bengaluru
+ORD1044,2026-02-15,CUST044,Yoga Mat,Sports,2,22.50,45.00,Debit Card,Delivered,Coimbatore
+ORD1045,2026-02-16,CUST045,Air Fryer,Home Appliances,1,129.99,129.99,Credit Card,Shipped,Chennai
+ORD1046,2026-13-01,CUST046,Laptop,Electronics,1,899.99,899.99,Credit Card,Shipped,Chennai
+ORD1047,2026-02-18,CUST047,Wireless Mouse,Electronics,2,19.99,39.98,UPI,Delivered,Bengaluru
+ORD1048,2026-02-19,CUST048,Office Chair,Furniture,1,149.50,149.50,Cash on Delivery,Delivered,Mumbai
+ORD1049,2026-02-20,CUST049,Smartphone,Electronics,1,699.00,699.00,Credit Card,Processing,Hyderabad
+ORD1050,2026-02-21,CUST050,Coffee Maker,Home Appliances,2,45.00,90.00,UPI,Delivered,Pune
+ORD1051,2026-02-22,CUST051,Running Shoes,Fashion,1,79.99,79.99,Debit Card,Shipped,Delhi
+ORD1052,2026-02-23,CUST052,Backpack,Fashion,3,29.99,89.97,UPI,Delivered,Kolkata
+ORD1053,2026-02-24,CUST053,Bluetooth Speaker,ELECTRONICS,1,59.99,59.99,PayPal,Cancelled,Chennai
+ORD1054,2026-02-25,CUST054,Desk Lamp,Home Decor,2,24.50,49.00,Debit Card,Delivered,Jaipur
+ORD1055,2026-02-26,CUST055,Water Bottle,Home & Kitchen,4,12.00,48.00,UPI,Delivered,Ahmedabad
+ORD1056,2026-02-27,CUST056,Monitor,Electronics,1,229.99,229.99,Credit Card,Shipped,CHENNAI
+ORD1057,2026-02-28,CUST057,Notebook Set,Stationery,5,4.99,24.95,Cash on Delivery,Delivered,Lucknow
+ORD1058,2026-03-01,CUST058,Gaming Keyboard,Electronics,1,89.99,,UPI,Processing,Bengaluru
+ORD1059,2026-03-02,CUST059,Yoga Mat,Sports,2,22.50,45.00,Debit Card,Delivered,Coimbatore
+ORD1060,2026-03-03,CUST060,Air Fryer,Home Appliances,1,129.99,129.99,Credit Card,Shipped,Chennai
+ORD1061,2026-03-04,CUST061,Laptop,Electronics,10000,899.99,899.99,Credit Card,Shipped,Chennai
+ORD1062,2026-03-05,CUST062,Wireless Mouse,Electronics,2,19.99,39.98,UPI,Delivered,Bengaluru
+ORD1063,2026-03-06,CUST063,Office Chair,Furniture,1,149.50,149.50,Cash on Delivery,Delivered,Mumbai
+ORD1064,2026-03-07,CUST064,Smartphone,Electronics,1,699.00,699.00,Credit Card,Processing,Hyderabad
+ORD1065,2026-03-08,CUST065,Coffee Maker,Home Appliances,2,-45.00,90.00,UPI,Delivered,Pune
+ORD1066,2026-03-09,CUST066,Running Shoes,Fashion,1,79.99,79.99,Debit Card,Shipped,Delhi
+ORD1067,2026-03-10,CUST067,Backpack,Fashion,3,29.99,89.97,UPI,Delivered,Kolkata
+ORD1068,2026-03-11,CUST068,Bluetooth Speaker,Electronics,1,59.99,59.99,PayPal,Cancelled,Chennai
+ORD1069,2026-03-12,CUST069,Desk Lamp,Home Decor,2,24.50,9999999.99,Debit Card,Delivered,Jaipur
+ORD1070,2026-03-13,CUST070,Water Bottle,Home & Kitchen,4,12.00,48.00,UPI,Delivered,Ahmedabad
+ORD1071,2026-03-14,CUST071,Monitor,Electronics,1,229.99,229.99,Credit Card,Shipped,Chennai
+ORD1072,2026-03-15,CUST072,Notebook Set,Stationery,5,4.99,24.95,Cash on Delivery,Delivered,Lucknow
+ORD1073,2026-03-16,CUST073,Gaming Keyboard,Electronics,1,89.99,89.99,UPI,In Transit,Bengaluru
+ORD1074,2026-03-17,CUST074,Yoga Mat,Sports,2,22.50,45.00,Debit Card,Delivered,Coimbatore
+ORD1075,2026-03-18,CUST075,Air Fryer,Home Appliances,1,129.99,129.99,Credit Card,Shipped,Chennai
+ORD1076,2026-03-19,CUST076,Wireless Mouse ,Electronics,1,899.99,899.99,Credit Card,Shipped,Chennai
+ORD1077,2026-03-20,CUST077,Wireless Mouse,Electronics,2,19.99,39.98,UPI,Delivered,Bengaluru
+ORD1078,2026-03-21,CUST078,Office Chair,Furniture,1,149.50,149.50,Cash on Delivery,Delivered,Mumbai
+ORD1079,2026-03-22,CUST079,Smartphone,Electronics,1,699.00,699.00,Credit Card,Processing,Hyderabad
+ORD1080,2026-03-23,CUST080,Coffee Maker,Home Appliances,2,45.00,90.00,UPI,Delivered,Pune
+ORD1081,2026-03-24,,Running Shoes,Fashion,1,79.99,79.99,Debit Card,Shipped,Delhi
+ORD1082,2026-03-25,CUST082,Backpack,Fashion,3,29.99,89.97,UPI,Delivered,Kolkata
+ORD1083,2026-03-26,CUST083,Bluetooth Speaker,Electronics,1,59.99,59.99,PayPal,Cancelled,Chennai
+ORD1084,2026-03-27,CUST084,Desk Lamp,Home Decor,2,24.50,49.00,Debit Card,Delivered,Jaipur
+ORD1085,2026-03-28,CUST085,Water Bottle,Home & Kitchen,4,12.00,48.00,UPI,Delivered,Ahmedabad
+ORD1086,2026-03-29,CUST086,Monitor,Electronics,1,29.99,999.00,Credit Card,Shipped,Chennai
+ORD1087,2026-03-30,CUST087,Notebook Set,Stationery,5,4.99,24.95,Cash on Delivery,Delivered,Lucknow
+ORD1088,2026-03-31,CUST088,Gaming Keyboard,Electronics,1,89.99,89.99,UPI,Processing,Bengaluru
+ORD1089,2026-04-01,CUST089,Yoga Mat,Sports,2,22.50,45.00,Debit Card,Delivered,Coimbatore
+ORD1090,2026-04-02,CUST090,Air Fryer,Home Appliances,1,129.99,129.99,Credit Card,Shipped,Chennai
+ORD1091,,CUST091,Laptop,Electronics,1,899.99,899.99,Credit Card,Shipped,Chennai
+ORD1092,2026-04-04,CUST092,Wireless Mouse,Electronics,2,19.99,39.98,UPI,Delivered,Bengaluru
+ORD1093,2026-04-05,CUST093,Office Chair,Furniture,1,149.50,149.50,Cash on Delivery,Delivered,Mumbai
+ORD1094,2026-04-06,CUST094,Smartphone,Electronics,1,699.00,699.00,Credit Card,Processing,Hyderabad
+ORD1095,2026-04-07,CUST095,Coffee Maker,Home Appliances,2,45.00,90.00,UPI,Delivered,Pune
+ORD1096,2026-04-08,CUST096,Running Shoes,Fashion,many,79.99,79.99,Debit Card,Shipped,Delhi
+ORD1097,2026-04-09,CUST097,Backpack,Fashion,3,29.99,89.97,UPI,Delivered,Kolkata
+ORD1098,2026-04-10,CUST098,Bluetooth Speaker,Electronics,1,59.99,59.99,PayPal,Cancelled,Chennai
+ORD1099,2026-04-11,CUST099,Desk Lamp,Home Decor,2,24.50,49.00,Debit Card,Delivered, chennai
+ORD1100,2026-04-12,CUST100,Water Bottle,Home & Kitchen,4,12.00,48.00,UPI,Delivered,Ahmedabad
+ORD1002,2026-01-04,CUST002,wireless mouse,Electronics,2,19.99,39.98,UPI,Delivered,Bengaluru
+ORD1009,not-a-date,CUST009,Desk Lamp,Home Decor,2,24.50,49.00,Debit Card,Delivered,Jaipur
+ORD1016,2026-01-18,CUST016,  laptop  ,Electronics,1,899.99,899.99, credit card ,Shipped,Chennai
+ORD1034,2026-02-05,CUST034, Monitor ,Electronics,1,699.00,699.00,Credit Card,Processing,Hyderabad
