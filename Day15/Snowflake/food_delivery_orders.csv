@@ -1,0 +1,21 @@
+ORDER_ID,CUSTOMER_NAME,RESTAURANT,ORDER_AMOUNT,DELIVERY_CITY,PAYMENT_METHOD,ORDER_STATUS
+2001,Ananya,Spice Route,420.0,Chennai,UPI,Delivered
+2002,Rahul,Burger Barn,280.0,Bengaluru,Card,Delivered
+2003,Meera,Dosa Corner,180.0,Chennai,Cash,Delivered
+2004,Karthik,Pizza Point,650.0,Hyderabad,UPI,Preparing
+2005,Divya,Green Bowl,340.0,Coimbatore,Card,Cancelled
+2006,Arjun,Spice Route,510.0,Chennai,UPI,Delivered
+2007,Priya,Noodle House,390.0,Pune,Wallet,Delivered
+2008,Vikram,Burger Barn,320.0,Bengaluru,Cash,Out for Delivery
+2009,Sneha,Pizza Point,720.0,Mumbai,Card,Delivered
+2010,Naveen,Dosa Corner,210.0,Chennai,UPI,Delivered
+2011,Ishita,Green Bowl,460.0,Delhi,Wallet,Preparing
+2012,Rohan,Noodle House,550.0,Pune,UPI,Delivered
+2013,Aditi,Spice Route,390.0,Hyderabad,Card,Cancelled
+2014,Sanjay,Burger Barn,260.0,Bengaluru,Cash,Delivered
+2015,Lakshmi,Pizza Point,680.0,Coimbatore,UPI,Out for Delivery
+2002,Rahul,Burger Barn,280.0,Bengaluru,Card,Delivered
+2006,Arjun,Spice Route,510.0,Chennai,UPI,Delivered
+2016,Farah,Dosa Corner,190.0,Mumbai,Wallet,Delivered
+2017,Manoj,Green Bowl,430.0,Delhi,Card,Preparing
+2010,Naveen,Dosa Corner,210.0,Chennai,UPI,Delivered
