@@ -1,0 +1,21 @@
+PRODUCT_ID,PRODUCT_NAME,CATEGORY,UNIT_PRICE,STOCK_QUANTITY
+3001,Wireless Mouse,Accessories,599.0,120
+3002,Mechanical Keyboard ,Accessories,2499.0,45
+3003,USB-C Hub,Accessories,1299.0,80
+3004,,Furniture,899.0,35
+3005,Monitor ,Electronics,12499.0,20
+3006,Webcam,Electronics,1899.0,60
+3007,Headphones,Audio,3299.0,50
+3008,Bluetooth Speaker ,Audio,2199.0,40
+3009,External SSD,Storage,5999.0,25
+3010,HDMI Cable,Accessories,399.0,200
+3011,Power Bank ,Accessories,1499.0,70
+3012,USB Drive,Storage,499.0,150
+3013,,Gaming,1799.0,30
+3014,Desk Lamp,Furniture,799.0,55
+3015,Tablet ,Electronics,18999.0,15
+3016,Phone Case,Accessories,599.0,100
+3017,Wireless Charger,Accessories,1199.0,65
+3018,Router ,Networking,2899.0,28
+3019,Microphone,Audio,4599.0,18
+3020,Monitor Arm,Furniture,1599.0,32
