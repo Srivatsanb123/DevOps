@@ -1,0 +1,21 @@
+CUSTOMER_ID,CUSTOMER_NAME,EMAIL,PHONE,CITY
+2001,Aarav Mehta,aarav.mehta@example.com,9876501001,Chennai
+2002,Diya Sharma ,diya.sharma@example.com,9876501002,Bengaluru
+2003,Kabir Rao,kabir.rao@example.com,9876501003,Hyderabad
+2004,,customer04@example.com,9876501004,Chennai
+2005,Ananya Iyer ,ananya.iyer@example.com,9876501005,Coimbatore
+2006,Rohan Das,rohan.das@example.com,9876501006,Pune
+2007,Meera Nair,meera.nair@example.com,9876501007,Kochi
+2008,Ishaan Kapoor ,ishaan.kapoor@example.com,9876501008,Delhi
+2009,Tara Menon,tara.menon@example.com,9876501009,Chennai
+2010,Arjun Patel,arjun.patel@example.com,9876501010,Mumbai
+2011,Nisha Verma ,nisha.verma@example.com,9876501011,Jaipur
+2012,Vikram Singh,vikram.singh@example.com,9876501012,Lucknow
+2013,,customer13@example.com,9876501013,Chennai
+2014,Pooja Krishnan,pooja.krishnan@example.com,9876501014,Madurai
+2015,Aditya Bose ,aditya.bose@example.com,9876501015,Kolkata
+2016,Sana Khan,sana.khan@example.com,9876501016,Ahmedabad
+2017,Neil Thomas,neil.thomas@example.com,9876501017,Chennai
+2018,Lavanya Reddy ,lavanya.reddy@example.com,9876501018,Vijayawada
+2019,Dev Malhotra,dev.malhotra@example.com,9876501019,Gurugram
+2020,Riya Suresh,riya.suresh@example.com,9876501020,Trichy
