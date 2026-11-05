@@ -1,0 +1,241 @@
+order_id,customer_id,order_date,city,region,product_category,product,quantity,unit_price,revenue,sales_channel,payment_method
+ORD20250001,CUST017,2025-01-07,Delhi,North,Books,Planner,4,803.37,3213.48,Retail Store,Debit Card
+ORD20250002,CUST034,2025-02-14,Hyderabad,South,Fashion,T-Shirt,2,503.82,1007.64,Mobile App,Net Banking
+ORD20250003,CUST051,2025-03-21,Kolkata,East,Home & Kitchen,Cookware Set,5,2656.51,13282.55,Online,Credit Card
+ORD20250004,CUST008,2025-04-28,Pune,West,Electronics,Headphones,3,4561.55,13684.65,Retail Store,Cash
+ORD20250005,CUST025,2025-05-04,Bengaluru,South,Books,Fiction Book,1,910.12,910.12,Mobile App,UPI
+ORD20250006,CUST042,2025-06-12,Jaipur,North,Fashion,Watch,4,4511.7,18046.8,Online,Debit Card
+ORD20250007,CUST059,2025-07-18,Pune,West,Home & Kitchen,Vacuum Cleaner,2,8056.57,16113.14,Retail Store,Net Banking
+ORD20250008,CUST016,2025-08-25,Bengaluru,South,Electronics,Keyboard,5,2204.04,11020.2,Mobile App,Credit Card
+ORD20250009,CUST033,2025-09-03,Jaipur,North,Electronics,Headphones,3,7999.25,23997.75,Online,Cash
+ORD20250010,CUST050,2025-10-08,Mumbai,West,Books,Fiction Book,1,132.78,132.78,Retail Store,UPI
+ORD20250011,CUST007,2025-11-17,Chennai,South,Fashion,Watch,4,1694.62,6778.48,Mobile App,Debit Card
+ORD20250012,CUST024,2025-12-22,Delhi,North,Home & Kitchen,Vacuum Cleaner,2,4671.86,9343.72,Online,Net Banking
+ORD20250013,CUST041,2025-01-29,Hyderabad,South,Electronics,Keyboard,5,1159.07,5795.35,Retail Store,Credit Card
+ORD20250014,CUST058,2025-02-14,Chennai,South,Books,Fiction Book,3,318.72,956.16,Mobile App,Cash
+ORD20250015,CUST015,2025-03-12,Delhi,North,Fashion,Backpack,1,4346.79,4346.79,Online,UPI
+ORD20250016,CUST032,2025-04-22,Hyderabad,South,Home & Kitchen,Water Bottle,4,5018.24,20072.96,Retail Store,Debit Card
+ORD20250017,CUST049,2025-05-26,Kolkata,East,Electronics,Mouse,2,4513.62,9027.24,Mobile App,Net Banking
+ORD20250018,CUST006,2025-06-06,Pune,West,Electronics,Keyboard,5,10894.3,54471.5,Online,Credit Card
+ORD20250019,CUST023,2025-07-09,Bengaluru,South,Books,Fiction Book,3,990.37,2971.11,Retail Store,Cash
+ORD20250020,CUST040,2025-08-16,Jaipur,North,Fashion,Backpack,1,389.97,389.97,Mobile App,UPI
+ORD20250021,CUST057,2025-09-27,Pune,West,Home & Kitchen,Water Bottle,4,7300.92,29203.68,Online,Debit Card
+ORD20250022,CUST014,2025-10-30,Bengaluru,South,Electronics,Mouse,2,12777.81,25555.62,Retail Store,Net Banking
+ORD20250023,CUST031,2025-11-11,Jaipur,North,Books,Notebook,5,474.28,2371.4,Mobile App,Credit Card
+ORD20250024,CUST048,2025-12-13,Mumbai,West,Fashion,Backpack,3,1306.2,3918.6,Online,Cash
+ORD20250025,CUST005,2025-01-20,Chennai,South,Home & Kitchen,Mixer,1,8625.61,8625.61,Retail Store,UPI
+ORD20250026,CUST022,2025-02-14,Delhi,North,Electronics,Monitor,4,6523.09,26092.36,Mobile App,Debit Card
+ORD20250027,CUST039,2025-03-03,Hyderabad,South,Electronics,Mouse,2,2304.5,4609.0,Online,Net Banking
+ORD20250028,CUST056,2025-04-16,Chennai,South,Books,Notebook,5,206.39,1031.95,Retail Store,Credit Card
+ORD20250029,CUST013,2025-05-17,Delhi,North,Fashion,Backpack,3,5562.09,16686.27,Mobile App,Cash
+ORD20250030,CUST030,2025-06-30,Hyderabad,South,Home & Kitchen,Mixer,1,5532.6,5532.6,Online,UPI
+ORD20250031,CUST047,2025-07-31,Kolkata,East,Electronics,Monitor,4,14663.32,58653.28,Retail Store,Debit Card
+ORD20250032,CUST004,2025-08-07,Pune,West,Books,Study Guide,2,902.7,1805.4,Mobile App,Net Banking
+ORD20250033,CUST021,2025-09-21,Bengaluru,South,Fashion,Sneakers,5,3647.8,18239.0,Online,Credit Card
+ORD20250034,CUST038,2025-10-21,Jaipur,North,Home & Kitchen,Mixer,3,8764.76,26294.28,Retail Store,Cash
+ORD20250035,CUST055,2025-11-05,Pune,West,Electronics,Headphones,1,7248.64,7248.64,Mobile App,UPI
+ORD20250036,CUST012,2025-12-04,Bengaluru,South,Electronics,Monitor,4,10250.3,41001.2,Online,Debit Card
+ORD20250037,CUST029,2025-01-11,Jaipur,North,Books,Study Guide,2,1012.35,2024.7,Retail Store,Net Banking
+ORD20250038,CUST046,2025-02-14,Mumbai,West,Fashion,Sneakers,5,4153.9,20769.5,Mobile App,Credit Card
+ORD20250039,CUST003,2025-03-25,Chennai,South,Home & Kitchen,Mixer,3,7789.94,23369.82,Online,Cash
+ORD20250040,CUST020,2025-04-10,Delhi,North,Electronics,Headphones,1,10688.19,10688.19,Retail Store,UPI
+ORD20250041,CUST037,2025-05-08,Hyderabad,South,Books,Planner,4,875.03,3500.12,Mobile App,Debit Card
+ORD20250042,CUST054,2025-06-24,Chennai,South,Fashion,T-Shirt,2,631.82,1263.64,Online,Net Banking
+ORD20250043,CUST011,2025-07-22,Delhi,North,Home & Kitchen,Cookware Set,5,2244.11,11220.55,Retail Store,Credit Card
+ORD20250044,CUST028,2025-08-29,Hyderabad,South,Electronics,Headphones,3,5706.41,17119.23,Mobile App,Cash
+ORD20250045,CUST045,2025-09-15,Kolkata,East,Electronics,Headphones,1,2080.4,2080.4,Online,UPI
+ORD20250046,CUST002,2025-10-12,Pune,West,Books,Planner,4,356.07,1424.28,Retail Store,Debit Card
+ORD20250047,CUST019,2025-11-29,Bengaluru,South,Fashion,T-Shirt,2,971.16,1942.32,Mobile App,Net Banking
+ORD20250048,CUST036,2025-12-26,Jaipur,North,Home & Kitchen,Cookware Set,5,2682.27,13411.35,Online,Credit Card
+ORD20250049,CUST053,2025-01-02,Pune,West,Electronics,Headphones,3,11697.34,35092.02,Retail Store,Cash
+ORD20250050,CUST010,2025-02-14,Bengaluru,South,Books,Fiction Book,1,501.32,501.32,Mobile App,UPI
+ORD20250051,CUST027,2025-03-16,Jaipur,North,Fashion,Watch,4,2626.61,10506.44,Online,Debit Card
+ORD20250052,CUST044,2025-04-04,Mumbai,West,Home & Kitchen,Vacuum Cleaner,2,2083.19,4166.38,Retail Store,Net Banking
+ORD20250053,CUST001,2025-05-30,Chennai,South,Electronics,Keyboard,5,5318.72,26593.6,Mobile App,Credit Card
+ORD20250054,CUST018,2025-06-18,Delhi,North,Electronics,Headphones,3,16904.12,50712.36,Online,Cash
+ORD20250055,CUST035,2025-07-13,Hyderabad,South,Books,Fiction Book,1,812.84,812.84,Retail Store,UPI
+ORD20250056,CUST052,2025-08-20,Chennai,South,Fashion,Watch,4,4096.16,16384.64,Mobile App,Debit Card
+ORD20250057,CUST009,2025-09-09,Delhi,North,Home & Kitchen,Vacuum Cleaner,2,1747.46,3494.92,Online,Net Banking
+ORD20250058,CUST026,2025-10-03,Hyderabad,South,Electronics,Keyboard,5,13313.89,66569.45,Retail Store,Credit Card
+ORD20250059,CUST043,2025-11-23,Kolkata,East,Books,Fiction Book,3,279.74,839.22,Mobile App,Cash
+ORD20250060,CUST060,2025-12-17,Pune,West,Fashion,Backpack,1,2683.65,2683.65,Online,UPI
+ORD20250061,CUST017,2025-01-24,Bengaluru,South,Home & Kitchen,Water Bottle,4,8908.33,35633.32,Retail Store,Debit Card
+ORD20250062,CUST034,2025-02-14,Jaipur,North,Electronics,Mouse,2,11772.0,23544.0,Mobile App,Net Banking
+ORD20250063,CUST051,2025-03-07,Pune,West,Electronics,Keyboard,5,10335.23,51676.15,Online,Credit Card
+ORD20250064,CUST008,2025-04-28,Bengaluru,South,Books,Fiction Book,3,853.08,2559.24,Retail Store,Cash
+ORD20250065,CUST025,2025-05-21,Jaipur,North,Fashion,Backpack,1,5533.54,5533.54,Mobile App,UPI
+ORD20250066,CUST042,2025-06-12,Mumbai,West,Home & Kitchen,Water Bottle,4,7040.0,28160.0,Online,Debit Card
+ORD20250067,CUST059,2025-07-04,Chennai,South,Electronics,Mouse,2,4662.53,9325.06,Retail Store,Net Banking
+ORD20250068,CUST016,2025-08-11,Delhi,North,Books,Notebook,5,135.31,676.55,Mobile App,Credit Card
+ORD20250069,CUST033,2025-09-03,Hyderabad,South,Fashion,Backpack,3,2290.04,6870.12,Online,Cash
+ORD20250070,CUST050,2025-10-25,Chennai,South,Home & Kitchen,Mixer,1,2592.73,2592.73,Retail Store,UPI
+ORD20250071,CUST007,2025-11-17,Delhi,North,Electronics,Monitor,4,4350.0,17400.0,Mobile App,Debit Card
+ORD20250072,CUST024,2025-12-08,Hyderabad,South,Electronics,Mouse,2,17012.34,34024.68,Online,Net Banking
+ORD20250073,CUST041,2025-01-15,Kolkata,East,Books,Notebook,5,1064.0,5320.0,Retail Store,Credit Card
+ORD20250074,CUST058,2025-02-14,Pune,West,Fashion,Backpack,3,2285.27,6855.81,Mobile App,Cash
+ORD20250075,CUST015,2025-03-29,Bengaluru,South,Home & Kitchen,Mixer,1,5985.09,5985.09,Online,UPI
+ORD20250076,CUST032,2025-04-22,Jaipur,North,Electronics,Monitor,4,7544.43,30177.72,Retail Store,Debit Card
+ORD20250077,CUST049,2025-05-12,Pune,West,Books,Study Guide,2,1106.0,2212.0,Mobile App,Net Banking
+ORD20250078,CUST006,2025-06-06,Bengaluru,South,Fashion,Sneakers,5,3171.94,15859.7,Online,Credit Card
+ORD20250079,CUST023,2025-07-26,Jaipur,North,Home & Kitchen,Mixer,3,2567.7,7703.1,Retail Store,Cash
+ORD20250080,CUST040,2025-08-02,Mumbai,West,Electronics,Headphones,1,4966.66,4966.66,Mobile App,UPI
+ORD20250081,CUST057,2025-09-27,Chennai,South,Electronics,Monitor,4,10411.67,41646.68,Online,Debit Card
+ORD20250082,CUST014,2025-10-16,Delhi,North,Books,Study Guide,2,389.02,778.04,Retail Store,Net Banking
+ORD20250083,CUST031,2025-11-11,Hyderabad,South,Fashion,Sneakers,5,3945.2,19726.0,Mobile App,Credit Card
+ORD20250084,CUST048,2025-12-30,Chennai,South,Home & Kitchen,Mixer,3,8105.95,24317.85,Online,Cash
+ORD20250085,CUST005,2025-01-06,Delhi,North,Electronics,Headphones,1,7609.63,7609.63,Retail Store,UPI
+ORD20250086,CUST022,2025-02-14,Hyderabad,South,Books,Planner,4,341.25,1365.0,Mobile App,Debit Card
+ORD20250087,CUST039,2025-03-20,Kolkata,East,Fashion,T-Shirt,2,6484.86,12969.72,Online,Net Banking
+ORD20250088,CUST056,2025-04-16,Pune,West,Home & Kitchen,Cookware Set,5,4708.36,23541.8,Retail Store,Credit Card
+ORD20250089,CUST013,2025-05-03,Bengaluru,South,Electronics,Headphones,3,2272.73,6818.19,Mobile App,Cash
+ORD20250090,CUST030,2025-06-30,Jaipur,North,Electronics,Headphones,1,1515.11,1515.11,Online,UPI
+ORD20250091,CUST047,2025-07-17,Pune,West,Books,Planner,4,220.61,882.44,Retail Store,Debit Card
+ORD20250092,CUST004,2025-08-24,Bengaluru,South,Fashion,T-Shirt,2,4208.79,8417.58,Mobile App,Net Banking
+ORD20250093,CUST021,2025-09-21,Jaipur,North,Home & Kitchen,Cookware Set,5,7180.69,35903.45,Online,Credit Card
+ORD20250094,CUST038,2025-10-07,Mumbai,West,Electronics,Headphones,3,8003.37,24010.11,Retail Store,Cash
+ORD20250095,CUST055,2025-11-05,Chennai,South,Books,Fiction Book,1,169.88,169.88,Mobile App,UPI
+ORD20250096,CUST012,2025-12-21,Delhi,North,Fashion,Watch,4,2696.96,10787.84,Online,Debit Card
+ORD20250097,CUST029,2025-01-28,Hyderabad,South,Home & Kitchen,Vacuum Cleaner,2,8966.06,17932.12,Retail Store,Net Banking
+ORD20250098,CUST046,2025-02-14,Chennai,South,Electronics,Keyboard,5,9853.68,49268.4,Mobile App,Credit Card
+ORD20250099,CUST003,2025-03-11,Delhi,North,Electronics,Headphones,3,17499.66,52498.98,Online,Cash
+ORD20250100,CUST020,2025-04-10,Hyderabad,South,Books,Fiction Book,1,1046.86,1046.86,Retail Store,UPI
+ORD20250101,CUST037,2025-05-25,Kolkata,East,Fashion,Watch,4,420.61,1682.44,Mobile App,Debit Card
+ORD20250102,CUST054,2025-06-24,Pune,West,Home & Kitchen,Vacuum Cleaner,2,6556.32,13112.64,Online,Net Banking
+ORD20250103,CUST011,2025-07-08,Bengaluru,South,Electronics,Keyboard,5,12493.59,62467.95,Retail Store,Credit Card
+ORD20250104,CUST028,2025-08-15,Jaipur,North,Books,Fiction Book,3,690.67,2072.01,Mobile App,Cash
+ORD20250105,CUST045,2025-09-15,Pune,West,Fashion,Backpack,1,1990.97,1990.97,Online,UPI
+ORD20250106,CUST002,2025-10-29,Bengaluru,South,Home & Kitchen,Water Bottle,4,5858.42,23433.68,Retail Store,Debit Card
+ORD20250107,CUST019,2025-11-29,Jaipur,North,Electronics,Mouse,2,2629.85,5259.7,Mobile App,Net Banking
+ORD20250108,CUST036,2025-12-12,Mumbai,West,Electronics,Keyboard,5,8221.44,41107.2,Online,Credit Card
+ORD20250109,CUST053,2025-01-19,Chennai,South,Books,Fiction Book,3,599.1,1797.3,Retail Store,Cash
+ORD20250110,CUST010,2025-02-14,Delhi,North,Fashion,Backpack,1,6215.97,6215.97,Mobile App,UPI
+ORD20250111,CUST027,2025-03-02,Hyderabad,South,Home & Kitchen,Water Bottle,4,7913.71,31654.84,Online,Debit Card
+ORD20250112,CUST044,2025-04-04,Chennai,South,Electronics,Mouse,2,5256.63,10513.26,Retail Store,Net Banking
+ORD20250113,CUST001,2025-05-16,Delhi,North,Books,Notebook,5,650.64,3253.2,Mobile App,Credit Card
+ORD20250114,CUST018,2025-06-18,Hyderabad,South,Fashion,Backpack,3,1448.71,4346.13,Online,Cash
+ORD20250115,CUST035,2025-07-30,Kolkata,East,Home & Kitchen,Mixer,1,8235.49,8235.49,Retail Store,UPI
+ORD20250116,CUST052,2025-08-06,Pune,West,Electronics,Monitor,4,15759.97,63039.88,Mobile App,Debit Card
+ORD20250117,CUST009,2025-09-09,Bengaluru,South,Electronics,Mouse,2,5863.09,11726.18,Online,Net Banking
+ORD20250118,CUST026,2025-10-20,Jaipur,North,Books,Notebook,5,802.84,4014.2,Retail Store,Credit Card
+ORD20250119,CUST043,2025-11-23,Pune,West,Fashion,Backpack,3,4095.17,12285.51,Mobile App,Cash
+ORD20250120,CUST060,2025-12-03,Bengaluru,South,Home & Kitchen,Mixer,1,1587.34,1587.34,Online,UPI
+ORD20250121,CUST017,2025-01-10,Jaipur,North,Electronics,Monitor,4,13891.44,55565.76,Retail Store,Debit Card
+ORD20250122,CUST034,2025-02-14,Mumbai,West,Books,Study Guide,2,693.32,1386.64,Mobile App,Net Banking
+ORD20250123,CUST051,2025-03-24,Chennai,South,Fashion,Sneakers,5,5138.55,25692.75,Online,Credit Card
+ORD20250124,CUST008,2025-04-28,Delhi,North,Home & Kitchen,Mixer,3,4890.59,14671.77,Retail Store,Cash
+ORD20250125,CUST025,2025-05-07,Hyderabad,South,Electronics,Headphones,1,709.89,709.89,Mobile App,UPI
+ORD20250126,CUST042,2025-06-12,Chennai,South,Electronics,Monitor,4,6307.9,25231.6,Online,Debit Card
+ORD20250127,CUST059,2025-07-21,Delhi,North,Books,Study Guide,2,121.42,242.84,Retail Store,Net Banking
+ORD20250128,CUST016,2025-08-28,Hyderabad,South,Fashion,Sneakers,5,6063.96,30319.8,Mobile App,Credit Card
+ORD20250129,CUST033,2025-09-03,Kolkata,East,Home & Kitchen,Mixer,3,7938.82,23816.46,Online,Cash
+ORD20250130,CUST050,2025-10-11,Pune,West,Electronics,Headphones,1,15087.81,15087.81,Retail Store,UPI
+ORD20250131,CUST007,2025-11-17,Bengaluru,South,Books,Planner,4,438.27,1753.08,Mobile App,Debit Card
+ORD20250132,CUST024,2025-12-25,Jaipur,North,Fashion,T-Shirt,2,706.24,1412.48,Online,Net Banking
+ORD20250133,CUST041,2025-01-01,Pune,West,Home & Kitchen,Cookware Set,5,7932.58,39662.9,Retail Store,Credit Card
+ORD20250134,CUST058,2025-02-14,Bengaluru,South,Electronics,Headphones,3,17082.23,51246.69,Mobile App,Cash
+ORD20250135,CUST015,2025-03-15,Jaipur,North,Electronics,Headphones,1,2181.8,2181.8,Online,UPI
+ORD20250136,CUST032,2025-04-22,Mumbai,West,Books,Planner,4,634.59,2538.36,Retail Store,Debit Card
+ORD20250137,CUST049,2025-05-29,Chennai,South,Fashion,T-Shirt,2,775.66,1551.32,Mobile App,Net Banking
+ORD20250138,CUST006,2025-06-06,Delhi,North,Home & Kitchen,Cookware Set,5,6905.27,34526.35,Online,Credit Card
+ORD20250139,CUST023,2025-07-12,Hyderabad,South,Electronics,Headphones,3,13948.94,41846.82,Retail Store,Cash
+ORD20250140,CUST040,2025-08-19,Chennai,South,Books,Fiction Book,1,241.23,241.23,Mobile App,UPI
+ORD20250141,CUST057,2025-09-27,Delhi,North,Fashion,Watch,4,3272.99,13091.96,Online,Debit Card
+ORD20250142,CUST014,2025-10-02,Hyderabad,South,Home & Kitchen,Vacuum Cleaner,2,5060.78,10121.56,Retail Store,Net Banking
+ORD20250143,CUST031,2025-11-11,Kolkata,East,Electronics,Keyboard,5,5285.48,26427.4,Mobile App,Credit Card
+ORD20250144,CUST048,2025-12-16,Pune,West,Electronics,Headphones,3,15793.09,47379.27,Online,Cash
+ORD20250145,CUST005,2025-01-23,Bengaluru,South,Books,Fiction Book,1,565.45,565.45,Retail Store,UPI
+ORD20250146,CUST022,2025-02-14,Jaipur,North,Fashion,Watch,4,1652.56,6610.24,Mobile App,Debit Card
+ORD20250147,CUST039,2025-03-06,Pune,West,Home & Kitchen,Vacuum Cleaner,2,4968.84,9937.68,Online,Net Banking
+ORD20250148,CUST056,2025-04-16,Bengaluru,South,Electronics,Keyboard,5,13327.81,66639.05,Retail Store,Credit Card
+ORD20250149,CUST013,2025-05-20,Jaipur,North,Books,Fiction Book,3,321.27,963.81,Mobile App,Cash
+ORD20250150,CUST030,2025-06-30,Mumbai,West,Fashion,Backpack,1,2267.06,2267.06,Online,UPI
+ORD20250151,CUST047,2025-07-03,Chennai,South,Home & Kitchen,Water Bottle,4,8957.56,35830.24,Retail Store,Debit Card
+ORD20250152,CUST004,2025-08-10,Delhi,North,Electronics,Mouse,2,11942.89,23885.78,Mobile App,Net Banking
+ORD20250153,CUST021,2025-09-21,Hyderabad,South,Electronics,Keyboard,5,8279.13,41395.65,Online,Credit Card
+ORD20250154,CUST038,2025-10-24,Chennai,South,Books,Fiction Book,3,669.33,2007.99,Retail Store,Cash
+ORD20250155,CUST055,2025-11-05,Delhi,North,Fashion,Backpack,1,1094.18,1094.18,Mobile App,UPI
+ORD20250156,CUST012,2025-12-07,Hyderabad,South,Home & Kitchen,Water Bottle,4,2216.1,8864.4,Online,Debit Card
+ORD20250157,CUST029,2025-01-14,Kolkata,East,Electronics,Mouse,2,6548.88,13097.76,Retail Store,Net Banking
+ORD20250158,CUST046,2025-02-14,Pune,West,Books,Notebook,5,747.14,3735.7,Mobile App,Credit Card
+ORD20250159,CUST003,2025-03-28,Bengaluru,South,Fashion,Backpack,3,1765.21,5295.63,Online,Cash
+ORD20250160,CUST020,2025-04-10,Jaipur,North,Home & Kitchen,Mixer,1,2176.9,2176.9,Retail Store,UPI
+ORD20250161,CUST037,2025-05-11,Pune,West,Electronics,Monitor,4,1928.18,7712.72,Mobile App,Debit Card
+ORD20250162,CUST054,2025-06-24,Bengaluru,South,Electronics,Mouse,2,11618.08,23236.16,Online,Net Banking
+ORD20250163,CUST011,2025-07-25,Jaipur,North,Books,Notebook,5,351.84,1759.2,Retail Store,Credit Card
+ORD20250164,CUST028,2025-08-01,Mumbai,West,Fashion,Backpack,3,5918.33,17754.99,Mobile App,Cash
+ORD20250165,CUST045,2025-09-15,Chennai,South,Home & Kitchen,Mixer,1,7771.81,7771.81,Online,UPI
+ORD20250166,CUST002,2025-10-15,Delhi,North,Electronics,Monitor,4,1925.83,7703.32,Retail Store,Debit Card
+ORD20250167,CUST019,2025-11-29,Hyderabad,South,Books,Study Guide,2,361.81,723.62,Mobile App,Net Banking
+ORD20250168,CUST036,2025-12-29,Chennai,South,Fashion,Sneakers,5,4464.21,22321.05,Online,Credit Card
+ORD20250169,CUST053,2025-01-05,Delhi,North,Home & Kitchen,Mixer,3,2124.57,6373.71,Retail Store,Cash
+ORD20250170,CUST010,2025-02-14,Hyderabad,South,Electronics,Headphones,1,2988.99,2988.99,Mobile App,UPI
+ORD20250171,CUST027,2025-03-19,Kolkata,East,Electronics,Monitor,4,16884.4,67537.6,Online,Debit Card
+ORD20250172,CUST044,2025-04-04,Pune,West,Books,Study Guide,2,728.15,1456.3,Retail Store,Net Banking
+ORD20250173,CUST001,2025-05-02,Bengaluru,South,Fashion,Sneakers,5,3256.93,16284.65,Mobile App,Credit Card
+ORD20250174,CUST018,2025-06-18,Jaipur,North,Home & Kitchen,Mixer,3,7115.42,21346.26,Online,Cash
+ORD20250175,CUST035,2025-07-16,Pune,West,Electronics,Headphones,1,14669.7,14669.7,Retail Store,UPI
+ORD20250176,CUST052,2025-08-23,Bengaluru,South,Books,Planner,4,309.45,1237.8,Mobile App,Debit Card
+ORD20250177,CUST009,2025-09-09,Jaipur,North,Fashion,T-Shirt,2,946.12,1892.24,Online,Net Banking
+ORD20250178,CUST026,2025-10-06,Mumbai,West,Home & Kitchen,Cookware Set,5,4021.7,20108.5,Retail Store,Credit Card
+ORD20250179,CUST043,2025-11-23,Chennai,South,Electronics,Headphones,3,8027.91,24083.73,Mobile App,Cash
+ORD20250180,CUST060,2025-12-20,Delhi,North,Electronics,Headphones,1,8779.53,8779.53,Online,UPI
+ORD20250181,CUST017,2025-01-27,Hyderabad,South,Books,Planner,4,901.98,3607.92,Retail Store,Debit Card
+ORD20250182,CUST034,2025-02-14,Chennai,South,Fashion,T-Shirt,2,4491.19,8982.38,Mobile App,Net Banking
+ORD20250183,CUST051,2025-03-10,Delhi,North,Home & Kitchen,Cookware Set,5,8861.45,44307.25,Online,Credit Card
+ORD20250184,CUST008,2025-04-28,Hyderabad,South,Electronics,Headphones,3,2402.63,7207.89,Retail Store,Cash
+ORD20250185,CUST025,2025-05-24,Kolkata,East,Books,Fiction Book,1,542.88,542.88,Mobile App,UPI
+ORD20250186,CUST042,2025-06-12,Pune,West,Fashion,Watch,4,2436.71,9746.84,Online,Debit Card
+ORD20250187,CUST059,2025-07-07,Bengaluru,South,Home & Kitchen,Vacuum Cleaner,2,7789.63,15579.26,Retail Store,Net Banking
+ORD20250188,CUST016,2025-08-14,Jaipur,North,Electronics,Keyboard,5,5001.75,25008.75,Mobile App,Credit Card
+ORD20250189,CUST033,2025-09-03,Pune,West,Electronics,Headphones,3,3990.61,11971.83,Online,Cash
+ORD20250190,CUST050,2025-10-28,Bengaluru,South,Books,Fiction Book,1,593.47,593.47,Retail Store,UPI
+ORD20250191,CUST007,2025-11-17,Jaipur,North,Fashion,Watch,4,2944.57,11778.28,Mobile App,Debit Card
+ORD20250192,CUST024,2025-12-11,Mumbai,West,Home & Kitchen,Vacuum Cleaner,2,2687.27,5374.54,Online,Net Banking
+ORD20250193,CUST041,2025-01-18,Chennai,South,Electronics,Keyboard,5,5021.65,25108.25,Retail Store,Credit Card
+ORD20250194,CUST058,2025-02-14,Delhi,North,Books,Fiction Book,3,1115.59,3346.77,Mobile App,Cash
+ORD20250195,CUST015,2025-03-01,Hyderabad,South,Fashion,Backpack,1,3075.25,3075.25,Online,UPI
+ORD20250196,CUST032,2025-04-22,Chennai,South,Home & Kitchen,Water Bottle,4,7786.8,31147.2,Retail Store,Debit Card
+ORD20250197,CUST049,2025-05-15,Delhi,North,Electronics,Mouse,2,10220.63,20441.26,Mobile App,Net Banking
+ORD20250198,CUST006,2025-06-06,Hyderabad,South,Electronics,Keyboard,5,1575.18,7875.9,Online,Credit Card
+ORD20250199,CUST023,2025-07-29,Kolkata,East,Books,Fiction Book,3,1199.21,3597.63,Retail Store,Cash
+ORD20250200,CUST040,2025-08-05,Pune,West,Fashion,Backpack,1,5491.57,5491.57,Mobile App,UPI
+ORD20250201,CUST057,2025-09-27,Bengaluru,South,Home & Kitchen,Water Bottle,4,8728.72,34914.88,Online,Debit Card
+ORD20250202,CUST014,2025-10-19,Jaipur,North,Electronics,Mouse,2,16726.15,33452.3,Retail Store,Net Banking
+ORD20250203,CUST031,2025-11-11,Pune,West,Books,Notebook,5,1033.57,5167.85,Mobile App,Credit Card
+ORD20250204,CUST048,2025-12-02,Bengaluru,South,Fashion,Backpack,3,1372.81,4118.43,Online,Cash
+ORD20250205,CUST005,2025-01-09,Jaipur,North,Home & Kitchen,Mixer,1,4499.36,4499.36,Retail Store,UPI
+ORD20250206,CUST022,2025-02-14,Mumbai,West,Electronics,Monitor,4,4397.83,17591.32,Mobile App,Debit Card
+ORD20250207,CUST039,2025-03-23,Chennai,South,Electronics,Mouse,2,7638.0,15276.0,Online,Net Banking
+ORD20250208,CUST056,2025-04-16,Delhi,North,Books,Notebook,5,164.5,822.5,Retail Store,Credit Card
+ORD20250209,CUST013,2025-05-06,Hyderabad,South,Fashion,Backpack,3,2680.68,8042.04,Mobile App,Cash
+ORD20250210,CUST030,2025-06-30,Chennai,South,Home & Kitchen,Mixer,1,8871.45,8871.45,Online,UPI
+ORD20250211,CUST047,2025-07-20,Delhi,North,Electronics,Monitor,4,5288.01,21152.04,Retail Store,Debit Card
+ORD20250212,CUST004,2025-08-27,Hyderabad,South,Books,Study Guide,2,962.48,1924.96,Mobile App,Net Banking
+ORD20250213,CUST021,2025-09-21,Kolkata,East,Fashion,Sneakers,5,3148.3,15741.5,Online,Credit Card
+ORD20250214,CUST038,2025-10-10,Pune,West,Home & Kitchen,Mixer,3,3951.32,11853.96,Retail Store,Cash
+ORD20250215,CUST055,2025-11-05,Bengaluru,South,Electronics,Headphones,1,17261.6,17261.6,Mobile App,UPI
+ORD20250216,CUST012,2025-12-24,Jaipur,North,Electronics,Monitor,4,17920.81,71683.24,Online,Debit Card
+ORD20250217,CUST029,2025-01-31,Pune,West,Books,Study Guide,2,711.35,1422.7,Retail Store,Net Banking
+ORD20250218,CUST046,2025-02-14,Bengaluru,South,Fashion,Sneakers,5,4768.21,23841.05,Mobile App,Credit Card
+ORD20250219,CUST003,2025-03-14,Jaipur,North,Home & Kitchen,Mixer,3,1604.47,4813.41,Online,Cash
+ORD20250220,CUST020,2025-04-10,Mumbai,West,Electronics,Headphones,1,5833.05,5833.05,Retail Store,UPI
+ORD20250221,CUST037,2025-05-28,Chennai,South,Books,Planner,4,1165.58,4662.32,Mobile App,Debit Card
+ORD20250222,CUST054,2025-06-24,Delhi,North,Fashion,T-Shirt,2,3911.96,7823.92,Online,Net Banking
+ORD20250223,CUST011,2025-07-11,Hyderabad,South,Home & Kitchen,Cookware Set,5,4994.21,24971.05,Retail Store,Credit Card
+ORD20250224,CUST028,2025-08-18,Chennai,South,Electronics,Headphones,3,13639.98,40919.94,Mobile App,Cash
+ORD20250225,CUST045,2025-09-15,Delhi,North,Electronics,Headphones,1,1688.96,1688.96,Online,UPI
+ORD20250226,CUST002,2025-10-01,Hyderabad,South,Books,Planner,4,742.6,2970.4,Retail Store,Debit Card
+ORD20250227,CUST019,2025-11-29,Kolkata,East,Fashion,T-Shirt,2,3442.53,6885.06,Mobile App,Net Banking
+ORD20250228,CUST036,2025-12-15,Pune,West,Home & Kitchen,Cookware Set,5,7711.3,38556.5,Online,Credit Card
+ORD20250229,CUST053,2025-01-22,Bengaluru,South,Electronics,Headphones,3,3423.59,10270.77,Retail Store,Cash
+ORD20250230,CUST010,2025-02-14,Jaipur,North,Books,Fiction Book,1,1156.86,1156.86,Mobile App,UPI
+ORD20250231,CUST027,2025-03-05,Pune,West,Fashion,Watch,4,842.69,3370.76,Online,Debit Card
+ORD20250232,CUST044,2025-04-04,Bengaluru,South,Home & Kitchen,Vacuum Cleaner,2,1875.97,3751.94,Retail Store,Net Banking
+ORD20250233,CUST001,2025-05-19,Jaipur,North,Electronics,Keyboard,5,10994.11,54970.55,Mobile App,Credit Card
+ORD20250234,CUST018,2025-06-18,Mumbai,West,Electronics,Headphones,3,12381.18,37143.54,Online,Cash
+ORD20250235,CUST035,2025-07-02,Chennai,South,Books,Fiction Book,1,358.72,358.72,Retail Store,UPI
+ORD20250236,CUST052,2025-08-09,Delhi,North,Fashion,Watch,4,1087.3,4349.2,Mobile App,Debit Card
+ORD20250237,CUST009,2025-09-09,Hyderabad,South,Home & Kitchen,Vacuum Cleaner,2,8040.01,16080.02,Online,Net Banking
+ORD20250238,CUST026,2025-10-23,Chennai,South,Electronics,Keyboard,5,4959.53,24797.65,Retail Store,Credit Card
+ORD20250239,CUST043,2025-11-23,Delhi,North,Books,Fiction Book,3,753.97,2261.91,Mobile App,Cash
+ORD20250240,CUST060,2025-12-06,Hyderabad,South,Fashion,Backpack,1,4159.2,4159.2,Online,UPI
