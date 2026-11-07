@@ -1,0 +1,241 @@
+Order_ID,Customer_ID,Date,City,Location,Solution,Product,Category,Quantity,unit_price,unit_cost
+ORD0027,CUST014,2026-01-03,Coimbatore,RS Puram,Data Analytics,Standing Desk,Furniture,7,18157.73,12115.98
+ORD0088,CUST011,2026-01-03,Hyderabad,Madhapur,Cybersecurity,External SSD,IT Equipment,3,6935.14,4184.43
+ORD0002,CUST021,2026-01-04,Pune,Viman Nagar,ERP Solutions,Networking Kit,IT Equipment,4,11985.91,7592.39
+ORD0109,CUST048,2026-01-09,Mumbai,Powai,Cloud Services,Antivirus License,Software,8,3695.73,878.38
+ORD0033,CUST070,2026-01-10,Coimbatore,Peelamedu,Cybersecurity,Business Software,Software,7,14332.5,4274.23
+ORD0032,CUST011,2026-01-14,Coimbatore,Gandhipuram,ERP Solutions,Office Chair,Furniture,1,9345.96,5762.85
+ORD0066,CUST017,2026-01-14,Bengaluru,Whitefield,Cybersecurity,Office Chair,Furniture,5,9143.22,5433.19
+ORD0055,CUST006,2026-01-15,Coimbatore,RS Puram,Cloud Services,Smartphone,Electronics,2,27933.06,20977.24
+ORD0072,CUST012,2026-01-16,Bengaluru,Jayanagar,Data Analytics,Networking Kit,IT Equipment,2,11174.55,7924.65
+ORD0020,CUST046,2026-01-21,Mumbai,Andheri,Data Analytics,Office Chair,Furniture,7,7888.32,5568.85
+ORD0035,CUST045,2026-01-22,Pune,Viman Nagar,ERP Solutions,Business Software,Software,2,16127.55,4535.6
+ORD0075,CUST056,2026-01-22,Coimbatore,Peelamedu,ERP Solutions,Standing Desk,Furniture,6,16485.42,13042.65
+ORD0080,CUST058,2026-01-22,Mumbai,Dadar,Data Analytics,Networking Kit,IT Equipment,8,12332.07,8225.16
+ORD0052,CUST041,2026-01-23,Bengaluru,Jayanagar,ERP Solutions,Standing Desk,Furniture,7,17124.91,12913.32
+ORD0003,CUST085,2026-01-24,Mumbai,Andheri,Cybersecurity,Business Software,Software,6,15405.26,4610.47
+ORD0058,CUST078,2026-01-26,Chennai,Tambaram,ERP Solutions,Networking Kit,IT Equipment,5,10821.38,8141.7
+ORD0106,CUST037,2026-01-26,Coimbatore,RS Puram,ERP Solutions,External SSD,IT Equipment,4,6157.66,4125.86
+ORD0074,CUST001,2026-01-29,Hyderabad,Madhapur,Cybersecurity,External SSD,IT Equipment,5,5914.95,4147.21
+ORD0015,CUST075,2026-01-30,Coimbatore,Gandhipuram,Cloud Services,External SSD,IT Equipment,3,6121.55,4057.72
+ORD0095,CUST010,2026-01-30,Mumbai,Dadar,ERP Solutions,Networking Kit,IT Equipment,5,12488.2,8072.82
+ORD0120,CUST071,2026-02-01,Mumbai,Dadar,Data Analytics,External SSD,IT Equipment,6,5961.69,4232.34
+ORD0007,CUST050,2026-02-02,Chennai,Velachery,ERP Solutions,Office Chair,Furniture,3,9131.19,5646.76
+ORD0098,CUST058,2026-02-07,Bengaluru,Whitefield,ERP Solutions,Business Software,Software,8,14160.59,4303.29
+ORD0100,CUST017,2026-02-07,Pune,Kothrud,Cloud Services,External SSD,IT Equipment,7,6949.91,4362.96
+ORD0094,CUST042,2026-02-10,Chennai,Tambaram,Cybersecurity,Networking Kit,IT Equipment,3,12240.05,7632.65
+ORD0113,CUST045,2026-02-10,Coimbatore,RS Puram,Cybersecurity,Antivirus License,Software,3,3373.65,877.06
+ORD0073,CUST035,2026-02-11,Chennai,Velachery,ERP Solutions,Office Chair,Furniture,3,9060.8,5392.04
+ORD0082,CUST040,2026-02-13,Hyderabad,Kukatpally,ERP Solutions,Business Software,Software,7,13925.54,4612.77
+ORD0037,CUST036,2026-02-14,Coimbatore,RS Puram,Data Analytics,Networking Kit,IT Equipment,5,11650.88,7561.78
+ORD0099,CUST009,2026-02-14,Mumbai,Powai,ERP Solutions,Antivirus License,Software,8,3768.82,905.58
+ORD0050,CUST029,2026-02-17,Pune,Hinjewadi,ERP Solutions,Office Chair,Furniture,5,8680.07,5735.74
+ORD0102,CUST065,2026-02-17,Pune,Viman Nagar,Data Analytics,Business Software,Software,3,15562.57,4561.79
+ORD0118,CUST024,2026-02-18,Bengaluru,Whitefield,ERP Solutions,Networking Kit,IT Equipment,7,12160.34,7413.19
+ORD0043,CUST027,2026-02-20,Coimbatore,Gandhipuram,Data Analytics,Business Software,Software,7,14507.75,4565.35
+ORD0084,CUST065,2026-02-21,Bengaluru,Jayanagar,Cloud Services,Office Chair,Furniture,3,7794.3,5935.59
+ORD0002,CUST012,2026-02-22,Hyderabad,Gachibowli,Cloud Services,Business Software,Software,3,14210.54,4642.29
+ORD0041,CUST002,2026-02-22,Chennai,Tambaram,Cybersecurity,Business Software,Software,3,15604.97,4636.51
+ORD0086,CUST067,2026-02-22,Hyderabad,Madhapur,Cybersecurity,Laptop,Electronics,8,56799.9,39255.25
+ORD0116,CUST043,2026-02-24,Bengaluru,Indiranagar,ERP Solutions,Business Software,Software,1,13530.58,4536.7
+ORD0013,CUST032,2026-02-25,Pune,Hinjewadi,Data Analytics,Laptop,Electronics,2,47493.41,40068.04
+ORD0071,CUST045,2026-02-25,Hyderabad,Kukatpally,Cybersecurity,Smartphone,Electronics,4,26153.14,20456.19
+ORD0074,CUST045,2026-02-28,Coimbatore,RS Puram,Cloud Services,External SSD,IT Equipment,7,6240.63,4328.49
+ORD0018,CUST014,2026-03-01,Pune,Viman Nagar,Data Analytics,Business Software,Software,2,16598.47,4302.52
+ORD0097,CUST034,2026-03-02,Pune,Kothrud,ERP Solutions,Office Chair,Furniture,8,8618.18,5982.86
+ORD0016,CUST073,2026-03-03,Bengaluru,Whitefield,Cloud Services,Smartphone,Electronics,2,29359.31,19848.6
+ORD0028,CUST059,2026-03-04,Bengaluru,Whitefield,ERP Solutions,External SSD,IT Equipment,1,6647.09,4410.4
+ORD0064,CUST059,2026-03-04,Mumbai,Andheri,Data Analytics,Antivirus License,Software,1,3456.57,866.5
+ORD0065,CUST073,2026-03-06,Pune,Hinjewadi,Cloud Services,Laptop,Electronics,1,55800.93,37799.9
+ORD0017,CUST045,2026-03-09,Coimbatore,Peelamedu,Data Analytics,Smartphone,Electronics,2,28511.83,20514.48
+ORD0060,CUST070,2026-03-09,Chennai,Velachery,Cybersecurity,Business Software,Software,6,15966.69,4324.85
+ORD0119,CUST062,2026-03-10,Pune,Hinjewadi,ERP Solutions,Smartphone,Electronics,5,27464.07,19813.29
+ORD0115,CUST001,2026-03-12,Chennai,Tambaram,Data Analytics,Networking Kit,IT Equipment,6,12693.83,7426.11
+ORD0001,CUST014,2026-03-13,Pune,Viman Nagar,Cloud Services,Smartphone,Electronics,1,29767.95,19872.43
+ORD0105,CUST013,2026-03-14,Hyderabad,Madhapur,Cybersecurity,Standing Desk,Furniture,8,16685.19,12424.39
+ORD0065,CUST077,2026-03-17,Mumbai,Andheri,Cybersecurity,Standing Desk,Furniture,4,19419.69,12099.5
+ORD0068,CUST009,2026-03-17,Coimbatore,Peelamedu,Cybersecurity,External SSD,IT Equipment,2,7135.95,4110.34
+ORD0020,CUST070,2026-03-18,Bengaluru,Whitefield,Cybersecurity,External SSD,IT Equipment,7,6652.1,4004.38
+ORD0045,CUST035,2026-03-18,Hyderabad,Madhapur,Cloud Services,Standing Desk,Furniture,7,16654.51,12087.21
+ORD0082,CUST043,2026-03-18,Mumbai,Andheri,Data Analytics,Networking Kit,IT Equipment,5,11465.27,8129.07
+ORD0042,CUST020,2026-03-19,Coimbatore,Gandhipuram,Cybersecurity,External SSD,IT Equipment,2,6675.14,4293.97
+ORD0053,CUST064,2026-03-19,Pune,Hinjewadi,Data Analytics,Networking Kit,IT Equipment,7,13409.41,8073.68
+ORD0111,CUST053,2026-03-19,Chennai,Tambaram,Data Analytics,Smartphone,Electronics,4,25316.65,20041.68
+ORD0078,CUST084,2026-03-20,Bengaluru,Whitefield,Data Analytics,Smartphone,Electronics,3,26776.76,19696.81
+ORD0096,CUST058,2026-03-20,Bengaluru,Indiranagar,Cybersecurity,Antivirus License,Software,6,3444.8,907.26
+ORD0044,CUST001,2026-03-22,Hyderabad,Gachibowli,ERP Solutions,Smartphone,Electronics,3,26677.57,20627.9
+ORD0081,CUST047,2026-03-23,Chennai,Velachery,Cybersecurity,Standing Desk,Furniture,8,20124.3,12536.1
+ORD0086,CUST026,2026-03-24,Coimbatore,Gandhipuram,Data Analytics,Business Software,Software,7,15159.59,4456.08
+ORD0014,CUST053,2026-03-27,Chennai,Velachery,ERP Solutions,Laptop,Electronics,2,57397.64,40631.9
+ORD0116,CUST005,2026-04-01,Chennai,Velachery,ERP Solutions,Standing Desk,Furniture,1,19816.39,12012.6
+ORD0084,CUST080,2026-04-03,Pune,Hinjewadi,ERP Solutions,Antivirus License,Software,3,3609.88,862.66
+ORD0037,CUST063,2026-04-04,Coimbatore,Peelamedu,Cybersecurity,Networking Kit,IT Equipment,6,10875.77,8128.49
+ORD0093,CUST037,2026-04-08,Mumbai,Powai,Cloud Services,Networking Kit,IT Equipment,8,11468.75,8037.08
+ORD0117,CUST015,2026-04-09,Pune,Kothrud,Data Analytics,External SSD,IT Equipment,3,7067.02,4183.88
+ORD0085,CUST048,2026-04-10,Bengaluru,Jayanagar,ERP Solutions,Standing Desk,Furniture,5,20023.76,12926.56
+ORD0033,CUST003,2026-04-13,Bengaluru,Jayanagar,Data Analytics,Smartphone,Electronics,1,29846.08,21606.04
+ORD0092,CUST006,2026-04-13,Chennai,Velachery,Cybersecurity,External SSD,IT Equipment,1,6269.62,3970.08
+ORD0104,CUST044,2026-04-15,Pune,Viman Nagar,Data Analytics,Laptop,Electronics,3,51829.09,38926.3
+ORD0010,CUST070,2026-04-19,Mumbai,Dadar,Data Analytics,Office Chair,Furniture,5,8636.75,5772.91
+ORD0032,CUST059,2026-04-19,Bengaluru,Indiranagar,Cybersecurity,External SSD,IT Equipment,3,5921.91,4139.07
+ORD0026,CUST066,2026-04-20,Bengaluru,Indiranagar,Data Analytics,Networking Kit,IT Equipment,6,12027.57,7745.86
+ORD0030,CUST009,2026-04-20,Bengaluru,Indiranagar,ERP Solutions,Office Chair,Furniture,4,8366.28,5462.52
+ORD0083,CUST044,2026-04-20,Mumbai,Powai,Data Analytics,Antivirus License,Software,1,3429.2,865.47
+ORD0034,CUST060,2026-04-22,Bengaluru,Jayanagar,Cybersecurity,Office Chair,Furniture,8,8901.89,5743.76
+ORD0043,CUST067,2026-04-26,Chennai,Velachery,ERP Solutions,Standing Desk,Furniture,2,18409.97,12374.26
+ORD0114,CUST082,2026-04-26,Mumbai,Andheri,Cloud Services,Standing Desk,Furniture,4,16401.03,13107.78
+ORD0005,CUST005,2026-04-28,Hyderabad,Gachibowli,ERP Solutions,Standing Desk,Furniture,6,19537.69,12914.0
+ORD0011,CUST076,2026-04-28,Bengaluru,Whitefield,Cloud Services,Standing Desk,Furniture,2,17538.82,12632.46
+ORD0087,CUST050,2026-05-01,Hyderabad,Madhapur,Cybersecurity,Laptop,Electronics,7,47409.26,39009.39
+ORD0099,CUST064,2026-05-02,Hyderabad,Madhapur,Cybersecurity,Standing Desk,Furniture,2,20101.12,12938.1
+ORD0056,CUST064,2026-05-04,Bengaluru,Jayanagar,Data Analytics,Office Chair,Furniture,2,8789.75,5619.66
+ORD0090,CUST074,2026-05-04,Pune,Kothrud,Data Analytics,Office Chair,Furniture,5,8452.68,5778.53
+ORD0039,CUST040,2026-05-05,Coimbatore,Gandhipuram,Cybersecurity,Laptop,Electronics,2,50166.06,38552.6
+ORD0004,CUST021,2026-05-06,Bengaluru,Indiranagar,ERP Solutions,Business Software,Software,2,15510.13,4322.41
+ORD0013,CUST010,2026-05-08,Mumbai,Powai,Cloud Services,External SSD,IT Equipment,3,6453.29,4088.39
+ORD0059,CUST085,2026-05-09,Hyderabad,Kukatpally,Data Analytics,Standing Desk,Furniture,6,17067.26,12035.2
+ORD0042,CUST062,2026-05-10,Coimbatore,Peelamedu,Cloud Services,External SSD,IT Equipment,8,6337.21,4434.61
+ORD0091,CUST003,2026-05-10,Coimbatore,RS Puram,Cloud Services,External SSD,IT Equipment,1,6759.01,4442.44
+ORD0008,CUST065,2026-05-15,Chennai,Anna Nagar,Cloud Services,Business Software,Software,7,14021.92,4231.75
+ORD0061,CUST075,2026-05-15,Hyderabad,Gachibowli,Cybersecurity,Smartphone,Electronics,8,27470.49,21112.57
+ORD0019,CUST065,2026-05-16,Hyderabad,Gachibowli,Cybersecurity,Business Software,Software,4,15868.12,4339.94
+ORD0094,CUST011,2026-05-17,Bengaluru,Jayanagar,ERP Solutions,External SSD,IT Equipment,8,6375.31,4349.83
+ORD0118,CUST043,2026-05-17,Hyderabad,Gachibowli,Cloud Services,Standing Desk,Furniture,1,17232.71,12103.28
+ORD0036,CUST079,2026-05-19,Hyderabad,Kukatpally,ERP Solutions,External SSD,IT Equipment,3,6472.75,4317.83
+ORD0050,CUST054,2026-05-20,Chennai,Velachery,ERP Solutions,Office Chair,Furniture,8,9394.06,5557.63
+ORD0113,CUST037,2026-05-21,Hyderabad,Madhapur,ERP Solutions,Standing Desk,Furniture,8,17455.48,12273.2
+ORD0029,CUST067,2026-05-22,Bengaluru,Indiranagar,Data Analytics,External SSD,IT Equipment,8,6220.64,4072.61
+ORD0038,CUST072,2026-05-22,Hyderabad,Madhapur,Data Analytics,Antivirus License,Software,5,3827.85,921.73
+ORD0047,CUST024,2026-05-23,Mumbai,Dadar,ERP Solutions,Laptop,Electronics,3,52182.53,39709.06
+ORD0097,CUST032,2026-05-23,Coimbatore,Peelamedu,Cloud Services,Smartphone,Electronics,3,28461.47,20249.16
+ORD0044,CUST059,2026-05-25,Pune,Hinjewadi,Data Analytics,External SSD,IT Equipment,5,5896.67,4093.2
+ORD0101,CUST011,2026-05-26,Pune,Kothrud,Data Analytics,Standing Desk,Furniture,6,19952.03,12528.35
+ORD0045,CUST057,2026-05-28,Chennai,Anna Nagar,ERP Solutions,Office Chair,Furniture,5,8762.73,5921.78
+ORD0055,CUST030,2026-05-28,Mumbai,Dadar,Cloud Services,Laptop,Electronics,2,49485.77,39862.99
+ORD0115,CUST042,2026-05-28,Coimbatore,RS Puram,Cloud Services,External SSD,IT Equipment,8,6780.27,4328.98
+ORD0098,CUST039,2026-05-29,Chennai,Anna Nagar,Data Analytics,Antivirus License,Software,6,3696.35,905.4
+ORD0051,CUST076,2026-06-02,Coimbatore,Gandhipuram,ERP Solutions,Antivirus License,Software,5,3781.82,876.55
+ORD0018,CUST079,2026-06-04,Hyderabad,Kukatpally,Cloud Services,Business Software,Software,3,14946.01,4523.34
+ORD0089,CUST016,2026-06-04,Bengaluru,Whitefield,Data Analytics,Office Chair,Furniture,7,7857.92,5555.06
+ORD0079,CUST036,2026-06-05,Pune,Viman Nagar,Cloud Services,Antivirus License,Software,3,3488.62,896.64
+ORD0101,CUST022,2026-06-05,Bengaluru,Whitefield,Cybersecurity,Networking Kit,IT Equipment,1,12994.87,7816.94
+ORD0009,CUST031,2026-06-07,Coimbatore,Peelamedu,Data Analytics,Laptop,Electronics,2,57428.89,40772.42
+ORD0106,CUST064,2026-06-07,Bengaluru,Whitefield,Cloud Services,Office Chair,Furniture,8,9512.46,5677.3
+ORD0119,CUST021,2026-06-07,Hyderabad,Gachibowli,Cybersecurity,Antivirus License,Software,4,3197.84,858.77
+ORD0077,CUST044,2026-06-08,Bengaluru,Whitefield,Cybersecurity,Networking Kit,IT Equipment,7,12183.26,7702.44
+ORD0034,CUST014,2026-06-09,Hyderabad,Kukatpally,Cloud Services,Office Chair,Furniture,2,9104.47,5470.02
+ORD0023,CUST056,2026-06-10,Bengaluru,Jayanagar,Cloud Services,Business Software,Software,1,13857.73,4464.66
+ORD0024,CUST085,2026-06-10,Hyderabad,Madhapur,Cybersecurity,Networking Kit,IT Equipment,2,13305.03,8193.84
+ORD0005,CUST028,2026-06-11,Hyderabad,Kukatpally,ERP Solutions,Smartphone,Electronics,4,30824.92,20665.26
+ORD0016,CUST034,2026-06-11,Mumbai,Andheri,Cybersecurity,Smartphone,Electronics,7,29249.42,20660.46
+ORD0047,CUST014,2026-06-14,Pune,Hinjewadi,Cybersecurity,External SSD,IT Equipment,2,6522.11,4153.81
+ORD0073,CUST073,2026-06-16,Coimbatore,Gandhipuram,Cloud Services,Networking Kit,IT Equipment,8,11699.97,7678.37
+ORD0105,CUST074,2026-06-17,Coimbatore,Gandhipuram,Cybersecurity,Networking Kit,IT Equipment,4,13341.49,8176.56
+ORD0011,CUST010,2026-06-19,Chennai,Tambaram,Data Analytics,Laptop,Electronics,4,47571.06,36807.01
+ORD0023,CUST004,2026-06-19,Hyderabad,Madhapur,Cybersecurity,Antivirus License,Software,7,3673.23,937.12
+ORD0019,CUST017,2026-06-20,Chennai,Tambaram,Cybersecurity,Smartphone,Electronics,7,30308.78,19378.45
+ORD0021,CUST053,2026-06-20,Bengaluru,Jayanagar,Data Analytics,Office Chair,Furniture,3,9298.25,5374.95
+ORD0091,CUST018,2026-06-20,Hyderabad,Madhapur,Cybersecurity,Standing Desk,Furniture,2,19255.15,12852.78
+ORD0108,CUST061,2026-06-20,Bengaluru,Jayanagar,ERP Solutions,Networking Kit,IT Equipment,1,10919.6,7460.27
+ORD0026,CUST012,2026-06-21,Pune,Hinjewadi,Cybersecurity,Smartphone,Electronics,5,28375.18,20827.03
+ORD0029,CUST041,2026-06-21,Hyderabad,Kukatpally,Cloud Services,External SSD,IT Equipment,2,6870.37,4066.18
+ORD0081,CUST009,2026-06-21,Coimbatore,RS Puram,Cloud Services,Networking Kit,IT Equipment,6,12592.29,7381.01
+ORD0088,CUST019,2026-06-21,Bengaluru,Whitefield,Cloud Services,Laptop,Electronics,6,57448.65,40587.35
+ORD0031,CUST052,2026-06-22,Coimbatore,Gandhipuram,Data Analytics,Standing Desk,Furniture,5,17925.91,11793.54
+ORD0102,CUST073,2026-06-22,Mumbai,Andheri,Cloud Services,Office Chair,Furniture,3,8881.83,5850.91
+ORD0117,CUST038,2026-06-22,Pune,Viman Nagar,Data Analytics,External SSD,IT Equipment,5,6877.6,3955.1
+ORD0054,CUST080,2026-06-23,Coimbatore,Gandhipuram,ERP Solutions,Office Chair,Furniture,2,8527.95,6020.94
+ORD0060,CUST015,2026-06-23,Bengaluru,Indiranagar,Cloud Services,Business Software,Software,8,16692.37,4389.38
+ORD0072,CUST045,2026-06-23,Chennai,Anna Nagar,Data Analytics,Office Chair,Furniture,5,8964.05,5569.35
+ORD0108,CUST072,2026-06-23,Mumbai,Powai,Data Analytics,Smartphone,Electronics,3,31206.51,20239.0
+ORD0080,CUST011,2026-06-25,Hyderabad,Kukatpally,Data Analytics,External SSD,IT Equipment,3,7219.54,4175.06
+ORD0077,CUST045,2026-06-28,Bengaluru,Jayanagar,Data Analytics,Smartphone,Electronics,2,28468.53,19747.0
+ORD0039,CUST059,2026-06-30,Coimbatore,RS Puram,Cybersecurity,Antivirus License,Software,7,3917.41,905.44
+ORD0012,CUST055,2026-07-01,Coimbatore,RS Puram,ERP Solutions,Networking Kit,IT Equipment,4,11049.02,7948.81
+ORD0058,CUST074,2026-07-03,Bengaluru,Indiranagar,Cybersecurity,Networking Kit,IT Equipment,8,11081.56,7688.96
+ORD0064,CUST013,2026-07-05,Chennai,Tambaram,Cybersecurity,Antivirus License,Software,4,3491.4,948.66
+ORD0076,CUST012,2026-07-05,Chennai,Velachery,Cloud Services,Antivirus License,Software,3,3767.02,912.76
+ORD0004,CUST021,2026-07-06,Chennai,Velachery,Cybersecurity,Standing Desk,Furniture,2,17705.3,12430.12
+ORD0061,CUST012,2026-07-07,Bengaluru,Indiranagar,Cloud Services,Standing Desk,Furniture,7,20030.39,12956.88
+ORD0107,CUST052,2026-07-07,Hyderabad,Gachibowli,Cloud Services,Laptop,Electronics,2,51729.81,40789.89
+ORD0079,CUST037,2026-07-08,Hyderabad,Madhapur,Cloud Services,Smartphone,Electronics,5,28044.33,19362.51
+ORD0104,CUST066,2026-07-09,Hyderabad,Kukatpally,Cloud Services,Antivirus License,Software,6,3901.04,860.12
+ORD0070,CUST017,2026-07-10,Chennai,Tambaram,Cloud Services,Smartphone,Electronics,2,25774.3,19507.55
+ORD0069,CUST020,2026-07-11,Coimbatore,Gandhipuram,ERP Solutions,Smartphone,Electronics,6,27828.87,20906.17
+ORD0054,CUST041,2026-07-14,Pune,Viman Nagar,ERP Solutions,Smartphone,Electronics,6,30450.42,21383.98
+ORD0110,CUST019,2026-07-14,Mumbai,Dadar,Data Analytics,External SSD,IT Equipment,3,6599.65,4311.48
+ORD0107,CUST065,2026-07-17,Coimbatore,RS Puram,Cybersecurity,Laptop,Electronics,4,50947.27,38010.66
+ORD0014,CUST034,2026-07-19,Bengaluru,Indiranagar,Cybersecurity,Networking Kit,IT Equipment,1,11234.64,7334.02
+ORD0030,CUST075,2026-07-19,Hyderabad,Kukatpally,Cloud Services,External SSD,IT Equipment,7,5939.04,4367.78
+ORD0031,CUST054,2026-07-19,Mumbai,Dadar,Data Analytics,Networking Kit,IT Equipment,8,10815.57,7661.25
+ORD0109,CUST079,2026-07-21,Bengaluru,Jayanagar,Cybersecurity,Office Chair,Furniture,6,9391.66,5575.87
+ORD0022,CUST043,2026-07-24,Hyderabad,Gachibowli,Cloud Services,Business Software,Software,4,14235.65,4586.42
+ORD0093,CUST057,2026-07-24,Pune,Kothrud,Cybersecurity,Antivirus License,Software,5,3245.85,885.75
+ORD0103,CUST039,2026-07-27,Coimbatore,RS Puram,Cloud Services,Business Software,Software,5,15093.72,4664.53
+ORD0021,CUST080,2026-07-28,Pune,Viman Nagar,Data Analytics,Smartphone,Electronics,6,30005.52,21444.97
+ORD0062,CUST015,2026-07-29,Pune,Hinjewadi,Cloud Services,Smartphone,Electronics,8,30801.83,20013.39
+ORD0056,CUST073,2026-07-30,Hyderabad,Kukatpally,Data Analytics,Antivirus License,Software,6,3481.63,872.37
+ORD0069,CUST044,2026-07-31,Chennai,Velachery,ERP Solutions,Smartphone,Electronics,4,27849.23,21454.7
+ORD0076,CUST038,2026-08-02,Chennai,Anna Nagar,ERP Solutions,Antivirus License,Software,7,3591.52,922.63
+ORD0103,CUST080,2026-08-02,Chennai,Tambaram,Cloud Services,Laptop,Electronics,5,54248.93,40249.37
+ORD0036,CUST063,2026-08-04,Pune,Hinjewadi,ERP Solutions,Antivirus License,Software,2,3539.59,882.85
+ORD0066,CUST068,2026-08-04,Bengaluru,Whitefield,Cloud Services,Antivirus License,Software,1,3284.17,851.66
+ORD0070,CUST007,2026-08-05,Mumbai,Powai,Cybersecurity,Antivirus License,Software,2,3466.32,940.35
+ORD0057,CUST033,2026-08-06,Chennai,Velachery,Cybersecurity,External SSD,IT Equipment,6,7262.34,4098.77
+ORD0087,CUST012,2026-08-12,Chennai,Anna Nagar,ERP Solutions,Office Chair,Furniture,5,8490.23,5709.13
+ORD0010,CUST067,2026-08-13,Pune,Kothrud,Cloud Services,Business Software,Software,7,16783.99,4580.93
+ORD0096,CUST005,2026-08-13,Hyderabad,Madhapur,Cloud Services,Office Chair,Furniture,1,7917.0,5773.58
+ORD0085,CUST079,2026-08-16,Chennai,Velachery,ERP Solutions,Networking Kit,IT Equipment,6,12585.6,7554.33
+ORD0095,CUST006,2026-08-17,Hyderabad,Kukatpally,Cybersecurity,External SSD,IT Equipment,7,6088.3,4171.73
+ORD0078,CUST073,2026-08-18,Pune,Viman Nagar,Cybersecurity,External SSD,IT Equipment,8,6928.86,4330.98
+ORD0068,CUST065,2026-08-21,Mumbai,Dadar,ERP Solutions,Antivirus License,Software,7,3915.86,903.3
+ORD0017,CUST041,2026-08-23,Bengaluru,Whitefield,Cloud Services,Business Software,Software,7,13931.9,4578.57
+ORD0057,CUST037,2026-08-27,Bengaluru,Jayanagar,Data Analytics,External SSD,IT Equipment,5,6507.19,4284.09
+ORD0022,CUST029,2026-08-29,Hyderabad,Madhapur,ERP Solutions,Office Chair,Furniture,2,8365.35,5384.49
+ORD0027,CUST079,2026-09-01,Bengaluru,Whitefield,ERP Solutions,Standing Desk,Furniture,3,16296.72,12117.26
+ORD0038,CUST083,2026-09-01,Chennai,Tambaram,ERP Solutions,Standing Desk,Furniture,7,18134.77,12887.25
+ORD0067,CUST052,2026-09-03,Pune,Kothrud,Cloud Services,Business Software,Software,8,15623.02,4246.82
+ORD0092,CUST081,2026-09-03,Mumbai,Andheri,Data Analytics,Antivirus License,Software,3,3789.4,919.95
+ORD0049,CUST016,2026-09-06,Bengaluru,Whitefield,Data Analytics,Business Software,Software,3,16561.32,4466.58
+ORD0063,CUST079,2026-09-08,Hyderabad,Gachibowli,Cybersecurity,Networking Kit,IT Equipment,3,13137.49,7945.01
+ORD0046,CUST057,2026-09-10,Pune,Hinjewadi,Cloud Services,Business Software,Software,7,16610.83,4500.25
+ORD0075,CUST056,2026-09-12,Bengaluru,Whitefield,Data Analytics,Office Chair,Furniture,5,8191.27,5440.07
+ORD0049,CUST081,2026-09-13,Coimbatore,RS Puram,Cloud Services,Laptop,Electronics,4,52730.95,39573.93
+ORD0067,CUST029,2026-09-15,Coimbatore,Gandhipuram,Cloud Services,External SSD,IT Equipment,6,6583.93,4002.96
+ORD0001,CUST078,2026-09-16,Mumbai,Andheri,Data Analytics,Networking Kit,IT Equipment,1,10878.66,7536.65
+ORD0028,CUST055,2026-09-16,Pune,Viman Nagar,ERP Solutions,Antivirus License,Software,8,3621.74,923.68
+ORD0090,CUST065,2026-09-17,Pune,Viman Nagar,Cloud Services,Smartphone,Electronics,6,25616.9,20564.11
+ORD0006,CUST064,2026-09-18,Mumbai,Andheri,Cloud Services,Networking Kit,IT Equipment,6,11379.01,8265.7
+ORD0051,CUST018,2026-09-18,Bengaluru,Whitefield,Cybersecurity,External SSD,IT Equipment,3,6398.53,4412.62
+ORD0048,CUST001,2026-09-21,Hyderabad,Kukatpally,ERP Solutions,Business Software,Software,6,13882.54,4647.18
+ORD0024,CUST069,2026-09-24,Coimbatore,Gandhipuram,Data Analytics,Standing Desk,Furniture,5,16375.77,12404.09
+ORD0040,CUST077,2026-09-26,Pune,Kothrud,Cloud Services,External SSD,IT Equipment,5,6886.16,4440.21
+ORD0053,CUST059,2026-09-27,Mumbai,Andheri,Data Analytics,Antivirus License,Software,2,3823.13,893.55
+ORD0083,CUST012,2026-09-27,Pune,Viman Nagar,ERP Solutions,Antivirus License,Software,3,3665.99,935.53
+ORD0015,CUST021,2026-09-29,Pune,Hinjewadi,Cloud Services,Antivirus License,Software,1,3188.61,897.49
+ORD0009,CUST017,2026-09-30,Mumbai,Andheri,ERP Solutions,Smartphone,Electronics,2,29708.55,21277.42
+ORD0112,CUST044,2026-09-30,Mumbai,Dadar,Cybersecurity,Networking Kit,IT Equipment,6,13325.65,7762.25
+ORD0041,CUST017,2026-10-01,Bengaluru,Indiranagar,Cloud Services,Business Software,Software,4,14690.91,4393.22
+ORD0003,CUST016,2026-10-02,Hyderabad,Gachibowli,Cloud Services,Antivirus License,Software,5,3771.49,924.81
+ORD0007,CUST035,2026-10-02,Mumbai,Dadar,Cybersecurity,Business Software,Software,1,15744.94,4291.86
+ORD0040,CUST024,2026-10-02,Hyderabad,Madhapur,Data Analytics,Standing Desk,Furniture,2,19056.29,12223.32
+ORD0089,CUST003,2026-10-02,Coimbatore,Gandhipuram,Data Analytics,External SSD,IT Equipment,2,6008.53,4404.19
+ORD0063,CUST018,2026-10-03,Chennai,Velachery,ERP Solutions,Business Software,Software,8,13883.2,4356.79
+ORD0120,CUST028,2026-10-03,Pune,Hinjewadi,Cloud Services,Antivirus License,Software,7,3690.49,944.58
+ORD0008,CUST068,2026-10-04,Pune,Hinjewadi,Cybersecurity,Business Software,Software,4,14004.37,4641.76
+ORD0052,CUST049,2026-10-06,Bengaluru,Indiranagar,Cybersecurity,External SSD,IT Equipment,8,6343.53,4226.17
+ORD0025,CUST001,2026-10-08,Pune,Kothrud,Cybersecurity,Networking Kit,IT Equipment,3,12424.96,7613.69
+ORD0048,CUST005,2026-10-09,Coimbatore,RS Puram,Cloud Services,External SSD,IT Equipment,5,6797.49,4149.83
+ORD0100,CUST082,2026-10-10,Coimbatore,Gandhipuram,Data Analytics,External SSD,IT Equipment,6,6033.52,4365.84
+ORD0025,CUST017,2026-10-11,Mumbai,Andheri,ERP Solutions,Business Software,Software,7,14576.4,4606.49
+ORD0071,CUST004,2026-10-13,Chennai,Tambaram,Cybersecurity,Business Software,Software,4,16163.83,4686.38
+ORD0112,CUST039,2026-10-13,Pune,Hinjewadi,Cybersecurity,Business Software,Software,8,14134.47,4363.12
+ORD0006,CUST069,2026-10-15,Coimbatore,RS Puram,ERP Solutions,External SSD,IT Equipment,3,6228.78,4072.3
+ORD0062,CUST042,2026-10-15,Chennai,Tambaram,Data Analytics,Standing Desk,Furniture,8,16299.1,13076.35
+ORD0111,CUST042,2026-10-15,Coimbatore,Gandhipuram,ERP Solutions,External SSD,IT Equipment,1,6859.26,4209.42
+ORD0114,CUST035,2026-10-15,Pune,Hinjewadi,Cloud Services,External SSD,IT Equipment,4,6138.96,4219.44
+ORD0012,CUST074,2026-10-20,Hyderabad,Gachibowli,Data Analytics,External SSD,IT Equipment,4,6621.1,4312.57
+ORD0046,CUST076,2026-10-22,Coimbatore,Peelamedu,Cybersecurity,Antivirus License,Software,5,3169.92,870.72
+ORD0059,CUST047,2026-10-24,Pune,Viman Nagar,Data Analytics,Smartphone,Electronics,1,27103.03,20354.43
+ORD0110,CUST074,2026-10-24,Coimbatore,Peelamedu,Cloud Services,Business Software,Software,1,15469.8,4373.39
+ORD0035,CUST081,2026-10-31,Hyderabad,Madhapur,Cloud Services,Networking Kit,IT Equipment,7,13285.48,7517.64
